@@ -4,7 +4,25 @@ You can use the [editor on GitHub](https://github.com/kevin0818-lxd/kevin0818-lx
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 个人信息
+###姓名
+###学历
+###邮箱
+###地址
+
+##最新消息
+
+##研究方向
+###通信专业
+
+##竞赛荣誉
+###数学竞赛
+###英语竞赛
+
+##生活动态
+###运动会
+###寝室生活
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
